@@ -1,0 +1,5 @@
+# Copy to local_settings.py and edit appropriately
+
+from .settings import *
+
+DATABASES['default']['PASSWORD'] = 'password';

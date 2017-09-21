@@ -3,3 +3,5 @@
 from .settings import *
 
 DATABASES['default']['PASSWORD'] = 'password';
+
+STATIC_URL = '/evolitve/static/';

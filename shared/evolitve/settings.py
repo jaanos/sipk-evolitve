@@ -26,7 +26,7 @@ SECRET_KEY = '1ddw!bhu0b18oyrz^04y6_$g9o41i9%bu!yn1bxjvguh=32wg%'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'evolitve.fri.uni-lj.si'
+    'lkrv.fri.uni-lj.si'
 ]
 
 
